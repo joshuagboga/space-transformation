@@ -299,6 +299,26 @@
   .w-\[960px\] {
     width: 960px;
   }
+  .w-\[2200px\] {
+    width: 2200px;
+  }
+  .w-fit {
+    width: fit-content;
+  }
+  .max-w-\[200px\] {
+    max-width: 200px;
+  }
+  .max-w-\[220px\] {
+    max-width: 220px;
+  }
+  .max-w-\[320px\] {
+    max-width: 320px;
+  }
+  .max-w-\[444\] {
+    max-width: 444;
+  }
+  .max-w-\[444px\] {
+    max-width: 444px;
   .w-\[1440px\] {
     width: 1440px;
   }
